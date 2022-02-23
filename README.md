@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Amneet-TestingXpert
+- 👀 I’m interested in Creating Test Automation Projects
+- 🌱 I’m currently learning Selenium with Java
